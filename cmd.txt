@@ -1,0 +1,17 @@
+mkdir 2022811004
+ls(to check the list of directories/files in the home directory)
+cd 2022811004
+ls(to check the list of directories/files in "2022811004" directory)
+pwd
+nano names.txt
+(wrote 5 words in the file "names.txt")
+cat names.txt
+touch lab.txt
+cat lab.txt(empty text file)
+ls
+cp names.txt lab.txt
+cat lab.txt
+rm names.txt
+ls(names.txt removed)
+tail -2 lab.txt
+wc -l lab.txt
